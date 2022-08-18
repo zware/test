@@ -1,2 +1,2 @@
 # test
-Test repository.  Not for testing.
+Test repository.  Not for testing.  But it is.
